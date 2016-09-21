@@ -52,7 +52,7 @@ N.B Sorry, but i'm French and this script is in french with a little english. an
 
 - Install Google Play Store (ONLY FOR Ice Cream Sandwich!)
 
-- Restore a pre rooted dumped firmware for Arnova 7 G3
+- Restore a pre-rooted firmware for Arnova 7 G3 (stock)
 
 - Reboot into Fastboot, and Recovery mode
 
@@ -60,13 +60,13 @@ N.B Sorry, but i'm French and this script is in french with a little english. an
 
 - Install ADB/Fastboot driver for Windows (thanks to Snoop05; http://forum.xda-developers.com/showthread.php?t=2588979)
 
-- Manipulate recovery (stock or not) fonctions like full wipe data or wipe system and data with this script
+- Manipulate recovery (stock or not) fonctions like full wipe data <u>or</u> wipe system and data with this script
 
-- MOunt/unmount "/system" partition to able to write
+- Mount/unmount "/system" partition to able to write
 
-- <i>[Root tools Lite]</i> Install a lot of application for root and dev. This will install Terminal Emulator v1.0.7.0, 
+- <i>[Root tools Lite]</i> Install a lot of tools for root and dev. This will install Terminal Emulator v1.0.7.0, 
 Busybox v42, No-frills CPU control v1.28.2 et SuperSu v2.76.
 
-- Unistall AppsLib et Update (ARNOVA 7 G3)
+- Uninstall AppsLib et Update (ARNOVA 7 G3)
 
-- Flash stock bootloader (ONLY FOR ARNOVA 7 G3)
+- Flash the stock bootloader (ONLY FOR ARNOVA 7 G3)
