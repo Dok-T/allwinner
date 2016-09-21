@@ -2,7 +2,9 @@ FR:
 Bienvenue!
 Alors voila, ceci est un script en batch pour récuperer le firmware de la tablete ARNOVA 7 G3. mais il peut faire d'autres choses!
 
-Que peut-il faire?
+<i>Que peut-il faire?:</i>
+
+
 
 -Vous afficher les partition de votre tablette/téléphone
 
