@@ -1,13 +1,13 @@
 @echo off
 adb kill-server
 :menu
-titleAllwinner A10/33 tool by Doctor_Titi
+title Allwinner A10/33 tool by Doctor_Titi
 color 3B
 cls
 :hidden
 echo."----------------------------------------------------"
 echo."    _____        _____        _____                 "                
-echo."   /     \      /     \      /     \  --v18.09--    "               
+echo."   /     \      /     \      /     \  --v21.09--    "               
 echo."  <       >----<       >----<       >   -#16-       "              
 echo."   \_____/      \_____/      \_____/                "               
 echo."   /     \      /     \      /     \                "               
