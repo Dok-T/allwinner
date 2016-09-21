@@ -9,7 +9,7 @@ Alors voila, ceci est un script en batch pour récuperer le firmware de la table
 
 
 
--Vous afficher les partition de votre tablette/téléphone
+- Vous afficher les partition de votre tablette/téléphone
 
 -Installer le Google Play Store sur votre appareil (UNIQUEMENT POUR ICS)
 
