@@ -1,10 +1,11 @@
 <center>
 <H1><u>FR:</u></H1>
+<h3>
 Bienvenue!
 Alors voila, ceci est un script en batch pour récuperer le firmware de la tablete ARNOVA 7 G3. mais il peut faire d'autres choses!
-</center>
+</h3>
 
-<i>Que peut-il faire?:</i>
+<h4><i>Que peut-il faire?:</i></h4>
 
 
 
@@ -33,8 +34,10 @@ Busybox v42, No-frills CPU control v1.28.2 et SuperSu v2.76.
 
 
 <center>
-<u>EN:</u>
+<h&><u>EN:</u></h1>
+<h3>
 Welcome!
 So, this a batch script to restore the android firmware for the Arnova 7 G3's tablet, but this script can do a lot of things else!
 N.B Sorry, but i'm French and this script is in french with a little english. and also, i'm sorry if my english is bad. :)
 </center>
+</h3>
