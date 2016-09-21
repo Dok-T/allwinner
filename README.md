@@ -2,7 +2,7 @@
 <H1><u>FR:</u></H1>
 <h3>
 Bienvenue!
-Alors voila, ceci est un script en batch pour récuperer le firmware de la tablete ARNOVA 7 G3. mais il peut faire d'autres choses!
+Alors voila, ceci est un script en batch pour récuperer le firmware de la tablette ARNOVA 7 G3. mais il peut faire d'autres choses!
 </h3>
 
 <h4><i>Que peut-il faire?:</i></h4>
