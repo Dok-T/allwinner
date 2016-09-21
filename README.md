@@ -8,7 +8,7 @@ Alors voila, ceci est un script en batch pour récuperer le firmware de la table
 <h4><i>Que peut-il faire?:</i></h4>
 
 
-
+<h5>
 -Vous afficher les partition de votre tablette/téléphone
 
 -Installer le Google Play Store sur votre appareil (UNIQUEMENT POUR ICS)
@@ -31,10 +31,10 @@ Busybox v42, No-frills CPU control v1.28.2 et SuperSu v2.76.
 -Supprimer AppsLib et Update (ARNOVA 7 G3)
 
 -Flash le Bootloader de l'Arnova 7 G3 UNIQUEMENT!
-
+</h5>
 
 <center>
-<h&><u>EN:</u></h1>
+<h1><u>EN:</u></h1>
 <h3>
 Welcome!
 So, this a batch script to restore the android firmware for the Arnova 7 G3's tablet, but this script can do a lot of things else!
