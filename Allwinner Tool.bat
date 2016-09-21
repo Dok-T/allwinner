@@ -806,4 +806,4 @@ goto :recovery
 
 
 :TheEnd?
-pause|echo "U Wot M8?!"
+pause|echo "U Wot M8?! xD"
