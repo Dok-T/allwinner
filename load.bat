@@ -1,4 +1,5 @@
 @echo off
+
 setlocal EnableDelayedExpansion
 for /f %%a in ('copy /Z "%~dpf0" nul') do set "CR=%%a"
 
