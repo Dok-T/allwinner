@@ -21,7 +21,7 @@ Alors voila, ceci est un script en batch pour récuperer le firmware de la table
 
 - Installe les driver ADB/FASTBOOT (merci a Snoop05; http://forum.xda-developers.com/showthread.php?t=2588979)
 
-- Manipulation des recovery custom et du recovery stock via ce script (wipe data; wipe data+cache; wipe data+cache+system)
+- Manipuler des recovery custom et du recovery stock via ce script (wipe data; wipe data+cache; wipe data+cache+system)
 
 - Monter/démonter la partition "/system" en RW (lecture écriture)
 
@@ -41,3 +41,32 @@ So, this a batch script to restore the android firmware for the Arnova 7 G3's ta
 N.B Sorry, but i'm French and this script is in french with a little english. and also, i'm sorry if my english is bad. :)
 </center>
 </h3>
+
+
+
+<h4><i>What this script can do?:</i></h4>
+
+
+
+- Show partitions on your device
+
+- Install Google Play Store (ONLY FOR Ice Cream Sandwich!)
+
+- Restore a pre rooted dumped firmware for Arnova 7 G3
+
+- Reboot into Fastboot, and Recovery mode
+
+- Flash a lot of recovery like TWRP, CWM and CWM Touch
+
+- Install ADB/Fastboot driver for Windows (thanks to Snoop05; http://forum.xda-developers.com/showthread.php?t=2588979)
+
+- Manipulate recovery (stock or not) fonctions like full wipe data or wipe system and data with this script
+
+- MOunt/unmount "/system" partition to able to write
+
+- <i>[Root tools Lite]</i> Install a lot of application for root and dev. This will install Terminal Emulator v1.0.7.0, 
+Busybox v42, No-frills CPU control v1.28.2 et SuperSu v2.76.
+
+- Unistall AppsLib et Update (ARNOVA 7 G3)
+
+- Flash stock bootloader (ONLY FOR ARNOVA 7 G3)
