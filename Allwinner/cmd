@@ -1,0 +1,44 @@
+
+Liste de commandes disponible:
+
+
+-help = Affiche cette aide
+
+partition = Affiche les partition theorique de la tablette dans /dev/block (SANS ADB) .
+
+adb = Installe ADB, FASTBOOT. A FAIRE EN premier si vous ne lavez pas fait.
+
+ - "push10" = Envoie les fichiers important sur votre tablette via ADB. A FAIRE en SECOND pour pouvoir restore10 votre tablette avec un cpu type A10.
+
+ - "procedure" = Affiche la procedure de restoration a respecter (A10).
+
+ - "restore10" = Assistant de restoration de votre tablette(A10)
+
+ - "reboot" = Redemarre la tablette dans differents modes.
+
+ - "info" = Affiche des informations avancee de la tablette (universal)
+
+ - "rw" = Monte la partition /system en ecriture et en lecture jusq'au prochian (re)demarrage!
+
+ - "ro" = Monte la partition /system en lecture seule
+
+ - "truepart" = Affiche les partitions et les point de montage de la tablette.
+
+ - "rtl" = (Root tools Lite) Installe des applications de developpement/root en /data.
+ / inclut: Terminal Emulator v1.0.7.0, Busybox v42, No-frills CPU control v1.28.2 et SuperSu v2.76 \
+
+ - "rcv" = Assistant d'installation de recovery custom.
+
+ - "gapps10" = Assistant d'installation des services Google (besoin d'au moins 42mo de libre dans /system)(A10 ICS)
+
+ - "debloat10" = Assistant de suppression des appli inutile (AppsLib et Update)(A10)
+
+ - "rcvwipe" = Menu permettant de controller le recovery custom en ligne de comande. (Universal)
+
+ - "bootloader10" = WARING: UNIQUEMENT POUR AN7G3 AVEC UN A10! Flash le bootloader10 stock et vous propose d'installer un recovery custom.
+
+ - "exit" = A la prochaine ;)
+
+ - "clear" = Remise a zero de la page
+
+
