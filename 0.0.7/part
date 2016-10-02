@@ -1,0 +1,43 @@
+ List des partition de la tablette (theoriquement): 
+.
+.
+ Partitions pur A10
+. NANDA - /dev/block/nanda = bootloader
+. NANDB - /dev/block/nandb = ENVIRONMENT
+. NANDC - /dev/block/nandc = BOOT\KERNEL
+. NANDD - /dev/block/nandd = SYSTEM
+. NANDE - /dev/block/nande = DATA
+. NANDF - /dev/block/nandf = MISC
+. NANDG - /dev/block/nandg = RECOVERY
+. NANDH - /dev/block/nandh = CACHE
+. NANDI - /dev/block/nandi = Memoire de stcokage interne (monte comme cartesd sur les rom stock)
+.
+.
+.
+.
+. Partitions Allwinner A10
+.
+. NANDA - /dev/block/nanda = bootloader
+. NANDB - /dev/block/nandb = env (environnement)
+. NANDC - /dev/block/nandc = boot / kernel
+. NANDD - /dev/block/nandd = SYSTEM
+. NANDE - /dev/block/nandj = DATA
+. NANDF - /dev/block/nandf = MISC
+. NANDG - /dev/block/nandg = RECOVERY
+. NANDH - /dev/block/nandg = CACHE
+. NANDI - /dev/block/nandi = Memoire de stcokage interne (monte comme Carte SD sur les rom stock)
+.
+.
+. Partition Allwinner A33
+.
+. NANDA - /dev/block/nanda = bootloader
+. NANDB - /dev/block/nandb = env (environnement)
+. NANDC - /dev/block/nandc = boot / kernel
+. NANDD - /dev/block/nandd = system
+. NANDE - /dev/block/nande = misc
+. NANDF - /dev/block/nandf = recovery
+. NANDG - /dev/block/nandg = cache 
+. NANDH - /dev/block/nandh = metadata
+. NANDI - /dev/block/nandi = private
+. NANDJ - /dev/block/nandj = UDISK
+
